@@ -1,0 +1,64 @@
+body { 
+    margin: 0px; 
+    padding: 0;
+}
+
+.container {  
+    width: 100%;
+    height: 1000px;
+    background-color: #272438;
+    flex-direction: row;
+    display: flex;
+}
+
+.one {
+    width: 30%;
+    height: 100%;
+    background-color:#faf9ff;
+}
+
+.two {
+    width: 40%;
+    height: 100%;
+    background-color:#272438;
+    text-align: center;
+}
+.three {
+    width: 30%;
+    height: 100%;
+    background-color:#dfda96;
+}
+
+.t-one { 
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.t-two { 
+    width: 100%;
+    height: 30%;
+    background-color: #7599e7;
+    display:flex;
+}
+
+.text{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.yea { 
+    width: 20%;
+    border-radius: 90px;
+    margin-bottom: 30px;
+}
+
+.h {
+     color: white;
+}
+
+.ye {
+    color: white;
+    font-size: 40px;
+}
