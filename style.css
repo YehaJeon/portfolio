@@ -1,3 +1,8 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
 body { 
     margin: 0px; 
     padding: 0;
@@ -20,7 +25,7 @@ body {
 .two {
     width: 40%;
     height: 100%;
-    background-color:#f8e09d;
+    background-color:#4682B4;
     text-align: center;
 }
 .three {
@@ -56,17 +61,19 @@ body {
 
 .h {
      color: rgb(255, 255, 255);
+     font-weight: 700;
 }
 
 .ye {
     color: rgb(255, 255, 255);
     font-size: 40px;
+    font-weight: 700;
 }
 
 .square {
     width: 100px;
     height: 100px;
-    background-color: gray;
+    background-color: rgb(100, 196, 81);
 }
 .triangle {
     width: 0;
@@ -74,6 +81,13 @@ body {
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
     border-bottom: 100px solid red;
-    transform: translateX(40px) rotate(45deg);
-    
+    transition: all 0.3s linear;
+    position: absolute;
+    left: 100px;
+
+
+}
+
+.triangle:hover {
+    transform: scale(2.0,2.0);
 }
