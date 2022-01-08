@@ -20,13 +20,13 @@ body {
 .two {
     width: 40%;
     height: 100%;
-    background-color:#272438;
+    background-color:#f8e09d;
     text-align: center;
 }
 .three {
     width: 30%;
     height: 100%;
-    background-color:#dfda96;
+    background-color:#c59ae2;
 }
 
 .t-one { 
@@ -55,10 +55,25 @@ body {
 }
 
 .h {
-     color: white;
+     color: rgb(255, 255, 255);
 }
 
 .ye {
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 40px;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
+.triangle {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid red;
+    transform: translateX(40px) rotate(45deg);
+    
 }
