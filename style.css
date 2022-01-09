@@ -19,13 +19,13 @@ body {
 .one {
     width: 30%;
     height: 100%;
-    background-color:#faf9ff;
+    background-color:#000000;
 }
 
 .two {
     width: 40%;
     height: 100%;
-    background-color:#4682B4;
+    background-color:#000000;
     text-align: center;
 }
 .three {
@@ -57,6 +57,8 @@ body {
     width: 20%;
     border-radius: 90px;
     margin-bottom: 30px;
+    transition: all 0.2s linear;
+    
 }
 
 .h {
@@ -70,24 +72,107 @@ body {
     font-weight: 700;
 }
 
-.square {
-    width: 100px;
-    height: 100px;
-    background-color: rgb(100, 196, 81);
+.circle1  {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 50%;
+    transition: all 0.2s linear;
+   position: absolute;
+   left: 600px;
+   top: 30px;
+  
 }
-.triangle {
-    width: 0;
-    height: 0;
-    border-left: 50px solid transparent;
-    border-right: 50px solid transparent;
-    border-bottom: 100px solid red;
-    transition: all 0.3s linear;
+.circle2  {
+    width: 30px;
+    height: 30px;
+    background: rgb(255, 166, 0);
+    border-radius: 50%;
+    transition: all 0.2s linear;
     position: absolute;
-    left: 100px;
-
-
+    left: 650px;
+    top: 150px;
 }
 
-.triangle:hover {
-    transform: scale(2.0,2.0);
+.circle3  {
+    width: 30px;
+    height: 30px;
+    background: rgb(179, 255, 0);
+    border-radius: 50%;
+    transition: all 0.2s linear;
+    position: absolute;
+    left: 470px; 
+    top: 250px;
 }
+
+.circle4  {
+    width: 30px;
+    height: 30px;
+    background: rgb(102, 255, 0);
+    border-radius: 50%;
+    transition: all 0.2s linear;
+    position: absolute;
+    left: 370px; 
+    top: 150px;
+}
+
+.circle5  {
+    width: 30px;
+    height: 30px;
+    background: rgb(0, 255, 242);
+    border-radius: 50%;
+    transition: all 0.2s linear;
+    position: absolute;
+    left: 200px; 
+    top: 170px;
+}
+
+.circle6  {
+    width: 30px;
+    height: 30px;
+    background: rgb(0, 68, 255);
+    border-radius: 50%;
+    transition: all 0.2s linear;
+    position: absolute;
+    left: 300px; 
+    top: 600px;
+}
+
+.circle7  {
+    width: 30px;
+    height: 30px;
+    background: rgb(183, 0, 255);
+    border-radius: 50%;
+    transition: all 0.2s linear;
+    position: absolute;
+    left: 300px; 
+    top: 700px;
+}
+
+.yea:hover {
+    background:rgb(255, 251, 0);
+    color: rgb(255, 255, 255);
+    box-shadow: 0 0 5px chartreuse, 0 0 25px chartreuse,
+    0 0 50px chartreuse,  0 0 100px chartreuse;
+}
+
+.circle1:hover {
+   background:chartreuse;
+   color: rgb(255, 255, 255);
+   box-shadow: 0 0 5px chartreuse, 0 0 25px chartreuse,
+   0 0 50px chartreuse,  0 0 100px chartreuse;
+}
+
+.circle2:hover {
+    background:rgb(196, 240, 153);
+    color: rgb(255, 255, 255);
+    box-shadow: 0 0 5px rgb(196, 240, 153), 0 0 25px rgb(196, 240, 153),
+    0 0 50px rgb(196, 240, 153),  0 0 100px rgb(196, 240, 153);
+ }
+
+ .circle3:hover {
+    background:#DBA901 ;
+    color: #ffffff;
+    box-shadow: 0 0 5px #DBA901, 0 0 25px #DBA901,
+    0 0 50px #DBA901,  0 0 100px #DBA901;
+ }
