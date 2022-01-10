@@ -88,7 +88,7 @@ body {
 .circle2  {
     width: 15px;
     height: 15px;
-    background: rgb(146, 178, 204);
+    background: rgb(128, 158, 184);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -99,7 +99,7 @@ body {
 .circle3  {
     width: 5px;
     height: 5px;
-    background: rgb(146, 178, 204);
+    background: rgb(176, 192, 206);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -110,7 +110,7 @@ body {
 .circle4  {
     width: 15px;
     height: 15px;
-    background: rgb(146, 178, 204);
+    background: rgb(130, 154, 172);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -176,7 +176,7 @@ body {
 .l3  {
     width: 15px;
     height: 15px;
-    background: rgb(195, 183, 228);
+    background: rgb(127, 106, 185);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -187,7 +187,7 @@ body {
 .l4  {
     width: 15px;
     height: 15px;
-    background: rgb(195, 183, 228);
+    background: rgb(131, 118, 167);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -209,7 +209,7 @@ body {
 .l6  {
     width: 5px;
     height: 5px;
-    background: rgb(195, 183, 228);
+    background: rgb(100, 90, 128);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -242,7 +242,7 @@ body {
 .c1 {
     width: 10px;
     height: 10px;
-    background: rgb(255, 0, 0);
+    background: rgb(213, 219, 152);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -253,7 +253,7 @@ body {
 .c2 {
     width: 10px;
     height: 10px;
-    background: rgb(255, 145, 0);
+    background: rgb(231, 252, 141);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -265,7 +265,7 @@ body {
 .c3 {
     width: 10px;
     height: 10px;
-    background: rgb(229, 255, 0);
+    background: rgb(227, 231, 184);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -276,7 +276,7 @@ body {
 .c4 {
     width: 10px;
     height: 10px;
-    background: rgb(72, 255, 0);
+    background: rgb(215, 235, 127);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -287,7 +287,7 @@ body {
 .c5 {
     width: 10px;
     height: 10px;
-    background: rgb(0, 255, 157);
+    background: rgb(211, 212, 107);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -298,7 +298,7 @@ body {
 .c6 {
     width: 10px;
     height: 10px;
-    background: rgb(0, 174, 255);
+    background: rgb(231, 236, 184);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -309,7 +309,7 @@ body {
 .c7 {
     width: 10px;
     height: 10px;
-    background: rgb(111, 0, 255);
+    background: rgb(220, 243, 137);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -320,7 +320,7 @@ body {
 .o1{
     width: 10px;
     height: 10px;
-    background: rgb(255, 0, 0);
+    background: rgb(185, 121, 182);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -331,7 +331,7 @@ body {
 .o2{
     width: 10px;
     height: 10px;
-    background: rgb(255, 153, 0);
+    background: rgb(218, 172, 204);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -342,7 +342,7 @@ body {
 .o3{
     width: 10px;
     height: 10px;
-    background: rgb(251, 255, 0);
+    background: rgb(206, 128, 193);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -353,7 +353,7 @@ body {
 .o4{
     width: 10px;
     height: 10px;
-    background: rgb(0, 255, 0);
+    background: rgb(201, 119, 204);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -364,7 +364,7 @@ body {
 .o5{
     width: 10px;
     height: 10px;
-    background: rgb(0, 255, 200);
+    background: rgb(199, 161, 194);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -375,7 +375,7 @@ body {
 .o6{
     width: 10px;
     height: 10px;
-    background: rgb(0, 140, 255);
+    background: rgb(212, 136, 212);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
@@ -386,7 +386,7 @@ body {
 .o7{
     width: 10px;
     height: 10px;
-    background: rgb(132, 0, 255);
+    background: rgb(211, 143, 202);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
