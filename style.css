@@ -887,3 +887,14 @@ body {
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
 }
+@keyframes o7 { 
+    50%{ 
+        opacity: 0; 
+       } 
+   } 
+.o7 { animation: o7 0.7s step-end infinite;
+    animation-name: o7 ; 
+    animation-duration: 0.7s; 
+    animation-iteration-count:infinite; 
+    animation-timing-function:step-end;
+}
