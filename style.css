@@ -5,6 +5,8 @@
 body { 
     margin: 0px; 
     padding: 0;
+    width: 99vw;
+    height: 60vh;
 }
 
 .container {  
@@ -27,6 +29,7 @@ body {
     background-color:#000000;
     text-align: center;
 }
+
 .three {
     width: 30%;
     height: 100%;
@@ -40,6 +43,7 @@ body {
     align-items: center;
     flex-direction: column;
 }
+
 .t-two { 
     width: 100%;
     height: 30%;
@@ -73,6 +77,12 @@ body {
     color: rgb(255, 255, 255);
     font-size: 40px;
     font-weight: 700;
+}
+
+.instagram {
+  position: absolute;
+  top: 80%; left: 44.3%;
+  text-align: center;
 }
 
 .circle1  {
@@ -124,8 +134,8 @@ body {
 }
 
 .circle4  {
-    width: 8px;
-    height: 8px;
+    width: 5px;
+    height: 5px;
     background: rgb(130, 154, 172);
     border-radius: 50%;
     transition: all 0.2s linear;
@@ -184,8 +194,8 @@ body {
 }
 
 .l1  {
-    width: 10px;
-    height: 10px;
+    width: 5px;
+    height: 5px;
     background: rgb(195, 183, 228);
     border-radius: 50%;
     transition: all 0.2s linear;
@@ -214,8 +224,8 @@ body {
 }
 
 .l3  {
-    width: 10px;
-    height: 10px;
+    width: 5px;
+    height: 5px;
     background: rgb(127, 106, 185);
     border-radius: 50%;
     transition: all 0.2s linear;
@@ -229,8 +239,8 @@ body {
 }
 
 .l4  {
-    width: 10px;
-    height: 10px;
+    width: 8px;
+    height: 8px;
     background: rgb(131, 118, 167);
     border-radius: 50%;
     transition: all 0.2s linear;
@@ -244,8 +254,8 @@ body {
 }
 
 .l5  {
-    width: 10px;
-    height: 10px;
+    width: 5px;
+    height: 5px;
     background: rgb(195, 183, 228);
     border-radius: 50%;
     transition: all 0.2s linear;
@@ -289,8 +299,8 @@ body {
 }
 
 .l8  {
-    width: 10px;
-    height: 10px;
+    width: 7px;
+    height: 7px;
     background: rgb(195, 183, 228);
     border-radius: 50%;
     transition: all 0.2s linear;
@@ -593,11 +603,8 @@ body {
     0 0 100px #DBA901;
  }
 
-.instagram {
-  position: absolute;
-  top: 70%; left: 44.3%;
-  text-align: center;
-}
+
+
 
  a { 
     padding: 10px 50px;
@@ -662,239 +669,266 @@ body {
             opacity: 0; 
            } 
        } 
-    .circle4 { animation: circle4 2s step-end infinite;
+    
+       .circle4 { animation: circle4 2s step-end infinite;
         animation-name: circle4; 
         animation-duration: 2s; 
         animation-iteration-count:infinite; 
         animation-timing-function:step-end;
-  }
+    }
 
-  @keyframes circle6 { 
+    @keyframes circle6 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.circle6 { animation: circle6 0.1s step-end infinite;
+    } 
+     .circle6 { animation: circle6 0.1s step-end infinite;
     animation-name: circle6; 
     animation-duration: 0.1s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes l1 { 
+    @keyframes l1 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.l1 { animation: l1 0.2s step-end infinite;
+    } 
+
+    .l1 { animation: l1 0.2s step-end infinite;
     animation-name: l1; 
     animation-duration: 0.2s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes l2 { 
+    @keyframes l2 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.l2 { animation: l2 0.5s step-end infinite;
+    } 
+    
+    .l2 { animation: l2 0.5s step-end infinite;
     animation-name: l2; 
     animation-duration: 0.5s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes l3 { 
+    
+    @keyframes l3 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.l3 { animation: l3 1s step-end infinite;
+    } 
+
+    .l3 { animation: l3 1s step-end infinite;
     animation-name: l3; 
     animation-duration: 1s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes l4 { 
+    @keyframes l4 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.l4 { animation: l4 2s step-end infinite;
+    } 
+    
+    .l4 { animation: l4 2s step-end infinite;
     animation-name: l4; 
     animation-duration: 2s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes l5 { 
+
+    @keyframes l5 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.l4 { animation: l5 1s step-end infinite;
+    } 
+
+    .l4 { animation: l5 1s step-end infinite;
     animation-name: l5; 
     animation-duration: 1s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes l6 { 
+
+    @keyframes l6 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.l6 { animation: l6 0.5s step-end infinite;
+    } 
+
+    .l6 { animation: l6 0.5s step-end infinite;
     animation-name: l4; 
     animation-duration: 0.5s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes l8 { 
+
+    @keyframes l8 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.l8 { animation: l8 2s step-end infinite;
+    } 
+
+    .l8 { animation: l8 2s step-end infinite;
     animation-name: l8; 
     animation-duration: 2s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes c1 { 
+    @keyframes c1 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.c1 { animation: c1 0.7s step-end infinite;
+    } 
+
+    .c1 { animation: c1 0.7s step-end infinite;
     animation-name: c1 ; 
     animation-duration: 0.7s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes c2 { 
+    @keyframes c2 { 
     50%{ 
         opacity: 0; 
-       } 
-   } 
-.c2 { animation: c2 1s step-end infinite;
+        } 
+    } 
+
+    .c2 { animation: c2 1s step-end infinite;
     animation-name: c2 ; 
     animation-duration: 1s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes c4 { 
+
+    @keyframes c4 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.c4 { animation: c4 0.5s step-end infinite;
+    } 
+
+    .c4 { animation: c4 0.5s step-end infinite;
     animation-name: c4 ; 
     animation-duration: 0.5s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes c5 { 
+
+    @keyframes c5 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.c5 { animation: c5 1s step-end infinite;
+    } 
+
+    .c5 { animation: c5 1s step-end infinite;
     animation-name: c5 ; 
     animation-duration: 1s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes c6 { 
+    @keyframes c6 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.c6 { animation: c6 0.1s step-end infinite;
+    } 
+
+    .c6 { animation: c6 0.1s step-end infinite;
     animation-name: c6 ; 
     animation-duration: 0.1s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes c7 { 
+    @keyframes c7 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.c7 { animation: c7 0.5s step-end infinite;
+    } 
+
+    .c7 { animation: c7 0.5s step-end infinite;
     animation-name: c7 ; 
     animation-duration: 0.5s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes o1 { 
+    @keyframes o1 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.o1 { animation: o1 0.5s step-end infinite;
+    } 
+    
+    .o1 { animation: o1 0.5s step-end infinite;
     animation-name: o1 ; 
     animation-duration: 0.5s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes o2 { 
+    @keyframes o2 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.o2 { animation: o2 1s step-end infinite;
+    } 
+
+    .o2 { animation: o2 1s step-end infinite;
     animation-name: o2 ; 
     animation-duration: 1s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
 
 
-@keyframes o5 { 
+    @keyframes o5 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
+    } 
 
-.o5 { animation: o5 0.7s step-end infinite;
+
+    .o5 { animation: o5 0.7s step-end infinite;
     animation-name: o5 ; 
     animation-duration: 0.7s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
 
-@keyframes o6 { 
+    @keyframes o6 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.o6 { animation: o6 1s step-end infinite;
+    } 
+
+    .o6 { animation: o6 1s step-end infinite;
     animation-name: o6 ; 
     animation-duration: 1s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
-@keyframes o7 { 
+    }
+
+
+    @keyframes o7 { 
     50%{ 
         opacity: 0; 
        } 
-   } 
-.o7 { animation: o7 0.7s step-end infinite;
+    } 
+
+    .o7 { animation: o7 0.7s step-end infinite;
     animation-name: o7 ; 
     animation-duration: 0.7s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
-}
+    }
