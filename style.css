@@ -87,7 +87,7 @@ body {
 
 .velog {
     position: absolute;
-    top: 80%; left: 46.9%;
+    top: 80%; left: 47%;
     text-align: center;
 }
 
@@ -711,9 +711,9 @@ body {
 
 
 
- .music {
+ /* .music {
      display: none;
-     }
+     } */
 
      @keyframes circle1 { 
          50%{ 
