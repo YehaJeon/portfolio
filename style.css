@@ -81,8 +81,14 @@ body {
 
 .instagram {
   position: absolute;
-  top: 80%; left: 44.3%;
+  top: 70%; left: 45.6%;
   text-align: center;
+}
+
+.velog {
+    position: absolute;
+    top: 80%; left: 46.9%;
+    text-align: center;
 }
 
 .circle1  {
@@ -422,105 +428,105 @@ body {
 .o1{
     width: 5px;
     height: 5px;
-    background: rgb(86, 233, 147);
+    background: rgb(110, 182, 146);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1250px; 
     top: 500px;
-    box-shadow: 0 0 5px rgb(86, 233, 147),
-    0 0 25px rgb(86, 233, 147),
-    0 0 50px rgb(86, 233, 147),  
-    0 0 100px rgb(86, 233, 147);
+    box-shadow: 0 0 5px rgb(110, 182, 146),
+    0 0 25px rgb(110, 182, 146),
+    0 0 50px rgb(110, 182, 146),  
+    0 0 100px rgb(110, 182, 146);
 }
 
 .o2{
     width: 10px;
     height: 10px;
-    background: rgb(86, 233, 147);
+    background: rgb(110, 182, 146);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1200px; 
     top: 650px;
-    box-shadow: 0 0 5px rgb(86, 233, 147),
-    0 0 25px rgb(86, 233, 147),
-    0 0 50px rgb(86, 233, 147),  
-    0 0 100px rgb(86, 233, 147);
+    box-shadow: 0 0 5px rgb(110, 182, 146),
+    0 0 25px rgb(110, 182, 146),
+    0 0 50px rgb(110, 182, 146),  
+    0 0 100px rgb(110, 182, 146);
 }
 .o3{
     width: 5px;
     height: 5px;
-    background: rgb(86, 233, 147);
+    background: rgb(110, 182, 146);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1200px; 
     top: 650px;
-    box-shadow: 0 0 5px rgb(86, 233, 147),
-    0 0 25px rgb(86, 233, 147),
-    0 0 50px rgb(86, 233, 147),  
-    0 0 100px rgb(86, 233, 147);
+    box-shadow: 0 0 5px rgb(110, 182, 146),
+    0 0 25px rgb(110, 182, 146),
+    0 0 50px rgb(110, 182, 146),  
+    0 0 100px rgb(110, 182, 146);
 }
 
 .o4{
     width: 7px;
     height: 7px;
-    background: rgb(86, 233, 147);
+    background: rgb(110, 182, 146);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1470px; 
     top: 800px;
-    box-shadow: 0 0 5px rgb(86, 233, 147),
-    0 0 25px rgb(86, 233, 147),
-    0 0 50px rgb(86, 233, 147),  
-    0 0 100px rgb(86, 233, 147);
+    box-shadow: 0 0 5px rgb(110, 182, 146),
+    0 0 25px rgb(110, 182, 146),
+    0 0 50px rgb(110, 182, 146),  
+    0 0 100px rgb(110, 182, 146);
 }
 
 .o5{
     width: 10px;
     height: 10px;
-    background: rgb(86, 233, 147);
+    background: rgb(110, 182, 146);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1480px; 
     top: 700px;
-    box-shadow: 0 0 5px rgb(86, 233, 147),
-    0 0 25px rgb(86, 233, 147),
-    0 0 50px rgb(86, 233, 147),  
-    0 0 100px rgb(86, 233, 147);
+    box-shadow: 0 0 5px rgb(110, 182, 146),
+    0 0 25px rgb(110, 182, 146),
+    0 0 50px rgb(110, 182, 146),  
+    0 0 100px rgb(110, 182, 146);
 }
 
 .o6{
     width: 5px;
     height: 5px;
-    background: rgb(86, 233, 147);
+    background: rgb(110, 182, 146);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1750px; 
     top: 750px;
-    box-shadow: 0 0 5px rgb(86, 233, 147),
-    0 0 25px rgb(86, 233, 147),
-    0 0 50px rgb(86, 233, 147),  
-    0 0 100px rgb(86, 233, 147);
+    box-shadow: 0 0 5px rgb(110, 182, 146),
+    0 0 25px rgb(110, 182, 146),
+    0 0 50px rgb(110, 182, 146),  
+    0 0 100px rgb(110, 182, 146);
 }
 
 .o7{
     width: 7px;
     height: 7px;
-    background: rgb(86, 233, 147);
+    background: rgb(110, 182, 146);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1650px; 
     top: 900px;
-    box-shadow: 0 0 5px rgb(86, 233, 147),
-    0 0 25px rgb(86, 233, 147),
-    0 0 50px rgb(86, 233, 147),  
-    0 0 100px rgb(86, 233, 147);
+    box-shadow: 0 0 5px rgb(110, 182, 146),
+    0 0 25px rgb(110, 182, 146),
+    0 0 50px rgb(110, 182, 146),  
+    0 0 100px rgb(110, 182, 146);
 }
 
 
@@ -603,11 +609,21 @@ body {
     0 0 100px #DBA901;
  }
 
+ .li:hover {
+    transform: scale(4.4);
+    background:#DBA901 ;
+    color: #ffffff;
+    box-shadow: 0 0 5px #DBA901, 
+    0 0 25px #DBA901,
+    0 0 50px #DBA901,  
+    0 0 100px #DBA901;
+ }
+
 
 
 
  a { 
-    padding: 10px 50px;
+    padding: 10px 20px;
     color: rgb(175, 193, 207);
     text-decoration: none;
     text-transform: uppercase;
@@ -655,9 +671,9 @@ body {
        } 
     
     
-    .circle3 { animation: circle3 0.3s step-end infinite;
+    .circle3 { animation: circle3 0.5s step-end infinite;
        animation-name: circle3; 
-       animation-duration: 0.3s; 
+       animation-duration: 0.5s; 
        animation-iteration-count:infinite; 
        animation-timing-function:step-end;
 
@@ -682,9 +698,9 @@ body {
         opacity: 0; 
        } 
     } 
-     .circle6 { animation: circle6 0.1s step-end infinite;
+     .circle6 { animation: circle6 0.4s step-end infinite;
     animation-name: circle6; 
-    animation-duration: 0.1s; 
+    animation-duration: 0.4s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
     }
@@ -695,9 +711,9 @@ body {
        } 
     } 
 
-    .l1 { animation: l1 0.2s step-end infinite;
+    .l1 { animation: l1 0.5s step-end infinite;
     animation-name: l1; 
-    animation-duration: 0.2s; 
+    animation-duration: 0.5s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
     }
@@ -844,9 +860,9 @@ body {
        } 
     } 
 
-    .c6 { animation: c6 0.1s step-end infinite;
+    .c6 { animation: c6 0.4s step-end infinite;
     animation-name: c6 ; 
-    animation-duration: 0.1s; 
+    animation-duration: 0.4s; 
     animation-iteration-count:infinite; 
     animation-timing-function:step-end;
     }
