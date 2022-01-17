@@ -1,5 +1,5 @@
 * {
-    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Orbitron', sans-serif;
 }
 
 body { 
@@ -61,10 +61,10 @@ body {
     border-radius: 90px;
     margin-bottom: 30px;
     transition: all 0.2s linear;
-    box-shadow: 0 0 5px rgb(110, 110, 110),
-    0 0 25px rgb(110, 110, 110),
-    0 0 50px rgb(110, 110, 110),  
-    0 0 100px rgb(110, 110, 110);
+    /* box-shadow: 0 0 5px rgb(175, 79, 154),
+    0 0 25px rgb(175, 79, 154),
+    0 0 50px rgb(175, 79, 154),  
+    0 0 100px rgb(175, 79, 154); */
     
 }
 
@@ -322,223 +322,223 @@ body {
 .c1 {
     width: 5px;
     height: 5px;
-    background: rgb(213, 219, 152);
+    background: rgb(195, 183, 228);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1200px; 
     top: 80px;
-    box-shadow: 0 0 5px rgb(213, 219, 152),
-    0 0 25px rgb(213, 219, 152),
-    0 0 50px rgb(213, 219, 152),  
-    0 0 100px rgb(213, 219, 152);
+    box-shadow: 0 0 5px rgb(195, 183, 228),
+    0 0 25px rgb(195, 183, 228),
+    0 0 50px rgb(195, 183, 228),  
+    0 0 100px rgb(195, 183, 228);
 }
 
 .c2 {
     width: 5px;
     height: 5px;
-    background: rgb(231, 252, 141);
+    background: rgb(195, 183, 228);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1150px; 
     top: 380px;
-    box-shadow: 0 0 5px rgb(213, 219, 152),
-    0 0 25px rgb(213, 219, 152),
-    0 0 50px rgb(213, 219, 152),  
-    0 0 100px rgb(213, 219, 152);
+    box-shadow: 0 0 5px rgb(195, 183, 228),
+    0 0 25px rgb(195, 183, 228),
+    0 0 50px rgb(195, 183, 228),  
+    0 0 100px rgb(195, 183, 228);
 }
 
 
 .c3 {
     width: 5px;
     height: 5px;
-    background: rgb(227, 231, 184);
+    background: rgb(195, 183, 228);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1400px; 
     top: 200px;
-    box-shadow: 0 0 5px rgb(213, 219, 152),
-    0 0 25px rgb(213, 219, 152),
-    0 0 50px rgb(213, 219, 152),  
-    0 0 100px rgb(213, 219, 152);
+    box-shadow: 0 0 5px rgb(195, 183, 228),
+    0 0 25px rgb(195, 183, 228),
+    0 0 50px rgb(195, 183, 228),  
+    0 0 100px rgb(195, 183, 228);
 }
 
 .c4 {
     width: 7px;
     height: 7px;
-    background: rgb(215, 235, 127);
+    background: rgb(195, 183, 228);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1430px; 
     top: 330px;
-    box-shadow: 0 0 5px rgb(213, 219, 152),
-    0 0 25px rgb(213, 219, 152),
-    0 0 50px rgb(213, 219, 152),  
-    0 0 100px rgb(213, 219, 152);
+    box-shadow: 0 0 5px rgb(195, 183, 228),
+    0 0 25px rgb(195, 183, 228),
+    0 0 50px rgb(195, 183, 228),  
+    0 0 100px rgb(195, 183, 228);
 }
 
 .c5 {
     width: 5px;
     height: 5px;
-    background: rgb(211, 212, 107);
+    background: rgb(195, 183, 228);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1600px; 
     top: 200px;
-    box-shadow: 0 0 5px rgb(213, 219, 152),
-    0 0 25px rgb(213, 219, 152),
-    0 0 50px rgb(213, 219, 152),  
-    0 0 100px rgb(213, 219, 152);
+    box-shadow: 0 0 5px rgb(195, 183, 228),
+    0 0 25px rgb(195, 183, 228),
+    0 0 50px rgb(195, 183, 228),  
+    0 0 100px rgb(195, 183, 228);
 }
 
 .c6 {
     width: 10px;
     height: 10px;
-    background: rgb(231, 236, 184);
+    background: rgb(195, 183, 228);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1590px; 
     top: 330px;
-    box-shadow: 0 0 5px rgb(220, 243, 137),
-    0 0 25px rgb(220, 243, 137),
-    0 0 50px rgb(220, 243, 137),  
-    0 0 100px rgb(220, 243, 137);
+    box-shadow: 0 0 5px rgb(195, 183, 228),
+    0 0 25px rgb(195, 183, 228),
+    0 0 50px rgb(195, 183, 228),  
+    0 0 100px rgb(195, 183, 228);
 }
 
 .c7 {
     width: 7px;
     height: 7px;
-    background: rgb(220, 243, 137);
+    background: rgb(195, 183, 228);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1800px; 
     top: 100px;
-    box-shadow: 0 0 5px rgb(220, 243, 137),
-    0 0 25px rgb(220, 243, 137),
-    0 0 50px rgb(220, 243, 137),  
-    0 0 100px rgb(220, 243, 137);
+    box-shadow: 0 0 5px rgb(195, 183, 228),
+    0 0 25px rgb(195, 183, 228),
+    0 0 50px rgb(195, 183, 228),  
+    0 0 100px rgb(195, 183, 228);
 }
 
 .o1{
     width: 5px;
     height: 5px;
-    background: rgb(110, 182, 146);
+    background: rgb(128, 158, 184);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1250px; 
     top: 500px;
-    box-shadow: 0 0 5px rgb(110, 182, 146),
-    0 0 25px rgb(110, 182, 146),
-    0 0 50px rgb(110, 182, 146),  
-    0 0 100px rgb(110, 182, 146);
+    box-shadow: 0 0 5px rgb(128, 158, 184),
+    0 0 25px rgb(128, 158, 184),
+    0 0 50px rgb(128, 158, 184),  
+    0 0 100px rgb(128, 158, 184);
 }
 
 .o2{
     width: 10px;
     height: 10px;
-    background: rgb(110, 182, 146);
+    background: rgb(128, 158, 184);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1200px; 
     top: 650px;
-    box-shadow: 0 0 5px rgb(110, 182, 146),
-    0 0 25px rgb(110, 182, 146),
-    0 0 50px rgb(110, 182, 146),  
-    0 0 100px rgb(110, 182, 146);
+    box-shadow: 0 0 5px rgb(128, 158, 184),
+    0 0 25px rgb(128, 158, 184),
+    0 0 50px rgb(128, 158, 184),  
+    0 0 100px rgb(128, 158, 184);
 }
 .o3{
     width: 5px;
     height: 5px;
-    background: rgb(110, 182, 146);
+    background: rgb(128, 158, 184);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1200px; 
     top: 650px;
-    box-shadow: 0 0 5px rgb(110, 182, 146),
-    0 0 25px rgb(110, 182, 146),
-    0 0 50px rgb(110, 182, 146),  
-    0 0 100px rgb(110, 182, 146);
+    box-shadow: 0 0 5px rgb(128, 158, 184),
+    0 0 25px rgb(128, 158, 184),
+    0 0 50px rgb(128, 158, 184),  
+    0 0 100px rgb(128, 158, 184);
 }
 
 .o4{
     width: 7px;
     height: 7px;
-    background: rgb(110, 182, 146);
+    background: rgb(128, 158, 184);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1470px; 
     top: 800px;
-    box-shadow: 0 0 5px rgb(110, 182, 146),
-    0 0 25px rgb(110, 182, 146),
-    0 0 50px rgb(110, 182, 146),  
-    0 0 100px rgb(110, 182, 146);
+    box-shadow: 0 0 5px rgb(128, 158, 184),
+    0 0 25px rgb(128, 158, 184),
+    0 0 50px rgb(128, 158, 184),  
+    0 0 100px rgb(128, 158, 184);
 }
 
 .o5{
     width: 10px;
     height: 10px;
-    background: rgb(110, 182, 146);
+    background: rgb(128, 158, 184);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1480px; 
     top: 700px;
-    box-shadow: 0 0 5px rgb(110, 182, 146),
-    0 0 25px rgb(110, 182, 146),
-    0 0 50px rgb(110, 182, 146),  
-    0 0 100px rgb(110, 182, 146);
+    box-shadow: 0 0 5px rgb(128, 158, 184),
+    0 0 25px rgb(128, 158, 184),
+    0 0 50px rgb(128, 158, 184),  
+    0 0 100px rgb(128, 158, 184);
 }
 
 .o6{
     width: 5px;
     height: 5px;
-    background: rgb(110, 182, 146);
+    background: rgb(128, 158, 184);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1750px; 
     top: 750px;
-    box-shadow: 0 0 5px rgb(110, 182, 146),
-    0 0 25px rgb(110, 182, 146),
-    0 0 50px rgb(110, 182, 146),  
-    0 0 100px rgb(110, 182, 146);
+    box-shadow: 0 0 5px rgb(128, 158, 184),
+    0 0 25px rgb(128, 158, 184),
+    0 0 50px rgb(128, 158, 184),  
+    0 0 100px rgb(128, 158, 184);
 }
 
 .o7{
     width: 7px;
     height: 7px;
-    background: rgb(110, 182, 146);
+    background: rgb(128, 158, 184);
     border-radius: 50%;
     transition: all 0.2s linear;
     position: absolute;
     left: 1650px; 
     top: 900px;
-    box-shadow: 0 0 5px rgb(110, 182, 146),
-    0 0 25px rgb(110, 182, 146),
-    0 0 50px rgb(110, 182, 146),  
-    0 0 100px rgb(110, 182, 146);
+    box-shadow: 0 0 5px rgb(128, 158, 184),
+    0 0 25px rgb(128, 158, 184),
+    0 0 50px rgb(128, 158, 184),  
+    0 0 100px rgb(128, 158, 184);
 }
 
 
 
 
 .yea:hover {
-    background:rgb(199, 199, 199);
+    background:rgb(175, 79, 154);
     color: rgb(255, 255, 255);
-    box-shadow: 0 0 5px rgb(199, 199, 199),
-    0 0 25px rgb(199, 199, 199),
-    0 0 50px rgb(199, 199, 199),  
-    0 0 100px rgb(199, 199, 199);
+    box-shadow: 0 0 5px rgb(175, 79, 154),
+    0 0 25px rgb(175, 79, 154),
+    0 0 50px rgb(175, 79, 154),  
+    0 0 100px rgb(175, 79, 154);
 }
 
 .circle1:hover {
