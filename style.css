@@ -1,5 +1,5 @@
 * {
-    font-family: 'Pangolin', cursive;
+    font-family: 'Balsamiq Sans', cursive;
 }
 
 body { 
@@ -61,10 +61,10 @@ body {
     border-radius: 90px;
     margin-bottom: 30px;
     transition: all 0.2s linear;
-    box-shadow: 0 0 5px rgb(78, 181, 207),
-    0 0 25px rgb(196, 196, 196),
-    0 0 50px rgb(196, 196, 196),  
-    0 0 100px rgb(196, 196, 196);
+    box-shadow: 0 0 5px rgb(110, 110, 110),
+    0 0 25px rgb(110, 110, 110),
+    0 0 50px rgb(110, 110, 110),  
+    0 0 100px rgb(110, 110, 110);
     
 }
 
@@ -609,16 +609,83 @@ body {
     0 0 100px #DBA901;
  }
 
- .li:hover {
-    transform: scale(4.4);
-    background:#DBA901 ;
+ .l1:hover {
+    transform: scale(5.5);
+    background:#c201db ;
     color: #ffffff;
-    box-shadow: 0 0 5px #DBA901, 
-    0 0 25px #DBA901,
-    0 0 50px #DBA901,  
-    0 0 100px #DBA901;
+    box-shadow: 0 0 5px #c201db, 
+    0 0 25px #c201db,
+    0 0 50px #c201db,  
+    0 0 100px #c201db;
  }
 
+ .l2:hover {
+    transform: scale(5.5);
+    background:#c201db ;
+    color: #ffffff;
+    box-shadow: 0 0 5px #c201db, 
+    0 0 25px #c201db,
+    0 0 50px #c201db,  
+    0 0 100px #c201db;
+ }
+
+ .l3:hover {
+    transform: scale(5.5);
+    background:#c201db ;
+    color: #ffffff;
+    box-shadow: 0 0 5px #c201db, 
+    0 0 25px #c201db,
+    0 0 50px #c201db,  
+    0 0 100px #c201db;
+ }
+
+ .l4:hover {
+    transform: scale(5.5);
+    background:#c201db ;
+    color: #ffffff;
+    box-shadow: 0 0 5px #c201db, 
+    0 0 25px #c201db,
+    0 0 50px #c201db,  
+    0 0 100px #c201db;
+ }
+
+ .l5:hover {
+    transform: scale(5.5);
+    background:#c201db ;
+    color: #ffffff;
+    box-shadow: 0 0 5px #c201db, 
+    0 0 25px #c201db,
+    0 0 50px #c201db,  
+    0 0 100px #c201db;
+ }
+
+ .l6:hover {
+    transform: scale(5.5);
+    background:#c201db ;
+    color: #ffffff;
+    box-shadow: 0 0 5px #c201db, 
+    0 0 25px #c201db,
+    0 0 50px #c201db,  
+    0 0 100px #c201db;
+ }
+ .l7:hover {
+    transform: scale(5.5);
+    background:#c201db ;
+    color: #ffffff;
+    box-shadow: 0 0 5px #c201db, 
+    0 0 25px #c201db,
+    0 0 50px #c201db,  
+    0 0 100px #c201db;
+ }
+ .l8:hover {
+    transform: scale(5.5);
+    background:#c201db ;
+    color: #ffffff;
+    box-shadow: 0 0 5px #c201db, 
+    0 0 25px #c201db,
+    0 0 50px #c201db,  
+    0 0 100px #c201db;
+ }
 
 
 
